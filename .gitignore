@@ -1,0 +1,13 @@
+## Unnecessary Folders ##
+build
+build-*
+cmake-*
+.idea
+.DS_Store
+
+## Temp Files ##
+*.o
+
+
+
+
